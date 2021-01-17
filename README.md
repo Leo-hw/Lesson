@@ -1,7 +1,7 @@
 # java(jsp, spring)
-# python.
+# python(django)
 
-# Data Structure  - (Que/Stack)
-# what it we didnt do . LIFO, FIFO
+
+
 
 
